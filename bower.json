@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "authors": [
+    "Matt Vogel <matt@portlandwebdev.com>"
+  ],
+  "description": "code test",
+  "main": "server.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.0"
+  }
+}
